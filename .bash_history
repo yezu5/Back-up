@@ -1,157 +1,3 @@
-git commit -m "Shell basic commands"
-git push
-ls
-clear
-vim 14-copy_html
-chmod u+x 14-copy_html 
-ls
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 14-copy_html 
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 13-symbolic_link 
-vim 14-copy_html 
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 14-copy_html 
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 14-copy_html 
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 14-copy_html 
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 14-copy_html 
-vim 15-lets_move
-chmod u+x 15-lets_move 
-ls
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 15-lets_move 
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 15-lets_move 
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 15-lets_move 
-git add .
-git commit -m "Shell basic commands"
-git push
-clear
-vim 16-clean_emacs
-chmod u+x 16-clean_emacs 
-ls
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 16-clean_emacs 
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 17-tree
-chmod u+x 17-tree 
-ls
-git add .
-git commit -m "Shell basic commands"
-git push
-vim 17-tree
-ls
-./ 17-tree 
-./17-tree 
-vim 17-tree
-
-./17-tree 
-vim 17-tree
-./17-tree 
-ls
-rm -r mkdir welcome
-ls
-vim 17-tree
-./17-tree 
-ls
-vim 17-tree
-./17-tree 
-vim 17-tree
-./17-tree 
-ls
-cd welcome
-ls
-cd to
-ls
-cd ..
-ls
-vim 17-tree
-git add .
-git commit -m "Shell basic commands"
-git push
-clear
-vim 17-tree
-git add .
-git commit -m "Shell basic commands"
-git push
-ls
-./17-tree 
-ll
-cd welcome/to/school
-cd ..
-ls
-ssh
-clear
-ls
-cd shell
-ls
-cd basics
-ls
-vim welcome/
-cd welcome/
-ls
-cd ..
-ls
-vim 12-file_type 
-ls
-git branch
-git branch -M main
-git branch
-git status
-git branch
-git checkout
-git branch
-git add
-git add .
-git commit -m "Shell basic commands"
-git push
-git push -u origin main
-git status
-git branch
-git status
-clear
-ssh
-clear
-ls
-pwd
-cd shell
-ls
-mkdir permissions
-ls
-cd permissions/
-vim README.md
-ls
-vim 0-iam_betty
-ls
-git status
-git branch
-git add .
 git commit -m "Shell Permissions"
 git push
 ls
@@ -1998,3 +1844,157 @@ ls
 vim betty
 ls -la
 vim betty
+clear
+ls
+cd ..
+ls
+cd Betty/
+ls
+vi betty
+cat betty.sh
+ls
+cd ..
+ls
+clear
+ls
+cd Betty
+ls
+cd
+ls
+cd ..
+ls
+ll
+ls
+rm Betty/
+sudo rm Betty
+rm -rf Betty
+sudo rm -rf Betty
+ls
+clear
+ls
+cd vagrant
+ls
+git clone https://github.com/holbertonschool/Betty.git
+ls
+cd Betty
+ls
+sudo ./install.sh
+clear
+vim betty
+chmod a+x betty
+ls
+ll
+vim betty
+pwd
+cd ..
+ls
+cd
+ls
+cd ..
+ls
+pwd
+cd vagrant
+ls
+clear
+ls
+mkdir bin
+ls
+cd Betty
+ld
+ls
+sudo mv betty /bin/
+ls
+betty
+ls
+cd ..
+ls
+cd holbertonschool-low_level_programming/
+ls
+cd hello_world/
+ls
+clear
+ls
+git add .
+git commit -m "C Hello World"
+git push
+clear
+ls
+rm 0-preprocessor 
+rm README.md 
+ls
+rmdir hello_world
+cd ..
+ls
+rm hello_world/
+rmdir hello_world/
+ls
+rm README.md 
+ls
+cd ..
+ls
+rmdir holbertonschool-low_level_programming/
+ls
+clear
+ls
+git status
+git pull
+ls
+ll
+clear
+ls
+ll
+ls
+git status
+git add .
+git pull
+clear
+ls
+cd shell
+ls
+cd ..
+ls
+vim README.md 
+git pull
+git branch
+git status
+git pull
+history
+clear
+git status
+ls
+git add .
+git status
+git pull
+git add .
+git status
+git commit -m "First commit"
+git push
+git pull
+git status
+ls
+git status
+git pull
+git branch
+git status
+git pull
+ls
+ll
+clear
+ls
+git pull
+ls
+cd bin
+ls
+cd ..
+ls
+cd Betty/
+LS
+ls
+cd ..
+ls
+cd shell
+ls
+cd ..
+ls
+git status
+git pull
