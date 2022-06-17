@@ -2,24 +2,19 @@
 #include <stdio.h>
 
 /**
- * _isdigit - checks the value of character
+ * _isdigit - checks for a digit 0 through 9
  *
- * @c - variable digit
+ * @c: digit to be checked
  *
  * Return: Always 0.
  */
-int _isdigit(int c);
-{
-	char c;
 
-	c = 'o';
-	if (c <= 9)
-	{
-	return (1);
-	}
-	c = 'a';
-	else
-	{
+int _isdigit(int c)
+{
+	if (c >= '0' && c <= '9')
+
+		return (1);
+	
 	return (0);
-	}
+	
 }
